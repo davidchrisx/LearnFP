@@ -1,5 +1,3 @@
-sub x y = x - y
-
 coin arr n = 
     if (length arr) <= 0 then 0
     else if n < 0 then 0
